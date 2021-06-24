@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=whai362&show_icons=true&include_all_commits=true&count_private=true"/> </p> 
+
 <!--
 **whai362/whai362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
